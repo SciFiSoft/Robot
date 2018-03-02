@@ -53,11 +53,11 @@ public void dance()
 public void fight()
     {
         //definition
-        System.out.println("Let's fight");
+        System.out.println("Let's fight with me");
     }
 public void clean()
     {
         //definition
-        System.out.println("Cleaning the city");
+        System.out.println("Cleaning the city together");
     }
 }
